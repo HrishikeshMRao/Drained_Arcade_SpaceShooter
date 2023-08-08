@@ -6,7 +6,7 @@ There is a Vedio attached aswell just for a better insight into my work please c
 Thankyou for visiting.
 
 ## What i learnt
-* pooling of projectiles.
+* Pooling of projectiles.
 * CANVAS resizing for different screens.
 * Using XML files for data storage between logins.
 * A more depth understanding of OOPS and scope.
