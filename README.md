@@ -1,2 +1,8 @@
 # Drained_Arcade_SpaceShooter
-My 2nd 2D game . From Scratch.
+Access the .exe file within the build files to launch the game. Clone this repository in your local machine. using git clone.
+
+There is a Vedio attached aswell just for a better insight into my work please check it.
+
+Thankyou for visiting.
+
+## What i learnt
